@@ -3,4 +3,4 @@ The code for the computational study of paper "A Decision Rule Approach for Two-
 
 All optimization problems are solved using MOSEK 9.2.28 via the YALMIP interface (a toolbox in MATLAB)} on a 10-core 2.8 GHz Windows PC with 32 GB RAM.
 
-
+The in-sample data in the numerical study is randomly generated according to the true underlying distribution implemented in the "generate_data.m" file. 
